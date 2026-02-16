@@ -1,5 +1,5 @@
 {
-  "description": "AGE A2 Exam Preparation App for IT Systems Management, featuring AI-generated questions based on official blocks and scoring criteria.",
+  "description": "Aplicación de preparación para el examen tipo test de GSI 2026, con preguntas generadas por IA basadas en temario oficial actualizado y criterios de puntuación.",
   "requestFramePermissions": [],
-  "name": "App"
+  "name": "App GSI2026"
 }
